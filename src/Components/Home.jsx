@@ -1,4 +1,4 @@
-const bannerGif = '../../public/images/bänner.gif';
+const bannerGif = '/images/optimized-banner.gif';
 
 const Home = () => {
   return (
