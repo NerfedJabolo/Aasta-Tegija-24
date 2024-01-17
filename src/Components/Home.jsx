@@ -19,7 +19,7 @@ const Home = () => {
           <img
             src={imageAndPattern}
             alt=""
-            className="md:w-[700px] w-[600px]"
+            className="xl:w-[700px] w-[600px]"
           />
           <span className="flex mb-6">
             <img src={ekssl} alt="" />
